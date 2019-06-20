@@ -1,0 +1,132 @@
+section {
+  width: 1400px;
+
+}
+
+
+header {
+  background: url('../img/background-image.png');
+  height: 800px;
+  padding-top: 0;
+  width: 1400px;
+
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  color: #bdbf09;
+  font-family: 'lato';
+  font-size: 60px;
+  padding-top: 341px;
+}
+
+ header h2 {
+  color: #095256;
+  font-size: 48px;
+  padding-left: 310px;
+  width: 754px;
+}
+
+#portfolio h2 {
+  text-align: center;
+  padding-bottom: 110px;
+  font-size: 36px;
+  color: #095256;
+}
+.project-1, .project-2, .project-3 {
+  width: 1200px;
+}
+
+.image {
+  float: left;
+  height: 341px;
+  padding-bottom: 50px;
+  padding-left: 75px;
+  width: 540px;
+}
+
+.project-info {
+  float: left;
+  height: 341px;
+  padding-left: 50px;
+}
+
+#about {
+  clear: both;
+  background-color: #087e8b;
+  height: 646px;
+}
+
+#about h2 {
+  color: #ffffff;
+  padding-bottom: 123px;
+  padding-top: 55px;
+
+}
+
+.about-me {
+  color: #ffffff;
+  float: left;
+  width: 600px;
+  padding-left: 50px;
+}
+
+.image #about {
+  height: 341px;
+  width: 540px;
+}
+
+#connect {
+  background-color: #095156;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: 0;
+}
+
+#connect h2 {
+  color: #ffffff;
+  font-size: 36px;
+  padding-top: 45px;
+  margin: 0;
+  clear: both;
+
+}
+
+#connect h3 {
+  color: #ffffff;
+  text-align: center;
+}
+
+#info {
+  height: 288px;
+  margin-top: 118px;
+  margin-bottom: 94px;
+  width: 1200px;
+}
+
+ul li{
+  list-style: none;
+  color: #ffffff;
+  text-align: center;
+}
+
+ul li img {
+  float: left;
+  padding-left: 45px;
+}
+
+.hire-me, .follow, .meet {
+  float: left;
+  height: 288px;
+  width: 400px;
+}
+
+footer h4 {
+  clear: both;
+  color: #ffffff;
+  padding-bottom: 13px;
+  text-align: center;
+}
